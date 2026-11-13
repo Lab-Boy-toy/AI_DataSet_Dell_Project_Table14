@@ -1,0 +1,1321 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "datasetTitle": "Hospitals (HIFLD-derived)",
+    "sourceService": "https://services.arcgis.com/XG15cJAlne2vxtgt/ArcGIS/rest/services/Hospitals_hifld/FeatureServer/0",
+    "sourceAgency": "Homeland Infrastructure Foundation-Level Data (HIFLD), via public ArcGIS FeatureServer",
+    "query": "CITY='SAN ANTONIO' AND STATE='TX'",
+    "recordCount": 45,
+    "datasetLastEditDate": "2021-08-30T13:40:12.233Z",
+    "retrievedAt": "2026-11-13T20:45:05.758Z",
+    "historical": true,
+    "note": "Snapshot of a publicly available HIFLD-derived layer last edited 2021-08-30. Hospital status, capacity, and existence may have changed since. Not a live or authoritative source — verify before operational use."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5783370422207,
+          29.5070095701356
+        ]
+      },
+      "properties": {
+        "NAME": "UNIVERSITY HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "UNIVERSITY HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL I",
+        "HELIPAD": "Y",
+        "BEDS": 1034,
+        "OWNER": "GOVERNMENT - DISTRICT/AUTHORITY",
+        "TELEPHONE": "(210) 358-4000",
+        "WEBSITE": "http://www.universityhealthsystem.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5724775885698,
+          29.5082133001038
+        ]
+      },
+      "properties": {
+        "NAME": "METHODIST HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "METHODIST HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL III",
+        "HELIPAD": "Y",
+        "BEDS": 933,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 575-4000",
+        "WEBSITE": "http://sahealth.com/locations/methodist-hospital/index.dot",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5447077171874,
+          29.3535371450233
+        ]
+      },
+      "properties": {
+        "NAME": "SOUTHWEST GENERAL HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "SOUTHWEST GENERAL HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78224",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "Y",
+        "BEDS": 327,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 921-2000",
+        "WEBSITE": "http://www.swgeneralhospital.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5453919870506,
+          29.3533583544046
+        ]
+      },
+      "properties": {
+        "NAME": "PAM SPECIALTY HOSPITAL OF SAN ANTONIO",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "PAM SPECIALTY HOSPITAL OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78224",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "Y",
+        "BEDS": 26,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 921-3550",
+        "WEBSITE": "http://www.warmsprings.org/our-facilities/hospitals/warm-springs-specialty-hospital-san-antonio/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4118396252985,
+          29.3753886841405
+        ]
+      },
+      "properties": {
+        "NAME": "VICTORY MEDICAL CENTER SOUTHCROSS",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "CLOSED",
+        "ADDRESS": "VICTORY MEDICAL CENTER SOUTHCROSS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78222",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 20,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "NOT AVAILABLE",
+        "WEBSITE": "http://victory-healthcare.com/southcross/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5897513167698,
+          29.5302401053966
+        ]
+      },
+      "properties": {
+        "NAME": "FOUNDATION SURGICAL HOSPITAL OF SAN ANTONIO",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "FOUNDATION SURGICAL HOSPITAL OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78240",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 20,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 478-5400",
+        "WEBSITE": "http://www.fshsanantonio.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.474434773446,
+          29.6158622128709
+        ]
+      },
+      "properties": {
+        "NAME": "METHODIST STONE OAK HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "METHODIST STONE OAK HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78258",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "Y",
+        "BEDS": 140,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 638-2000",
+        "WEBSITE": "http://sahealth.com/locations/methodiststoneoak/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5475725822089,
+          29.4898639890319
+        ]
+      },
+      "properties": {
+        "NAME": "METHODIST TEXSAN HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "METHODIST TEXSAN HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78201",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "Y",
+        "BEDS": 120,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 736-8001",
+        "WEBSITE": "http://sahealth.com/locations/methodisttexsan/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4384867191867,
+          29.3447885086828
+        ]
+      },
+      "properties": {
+        "NAME": "MISSION TRAIL BAPTIST HOSPITAL-ER",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "MISSION TRAIL BAPTIST HOSPITAL-ER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78235",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "Y",
+        "BEDS": 110,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 297-3600",
+        "WEBSITE": "http://www.baptisthealthsystem.com/baptist-locations/mission-trail-baptist-hospital",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4914282890842,
+          29.6203790947195
+        ]
+      },
+      "properties": {
+        "NAME": "NORTH CENTRAL BAPTIST HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "NORTH CENTRAL BAPTIST HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78258",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL III",
+        "HELIPAD": "Y",
+        "BEDS": 429,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 297-4000",
+        "WEBSITE": "http://www.baptisthealthsystem.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4290579777435,
+          29.5195970021999
+        ]
+      },
+      "properties": {
+        "NAME": "NORTHEAST BAPTIST HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "NORTHEAST BAPTIST HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78217",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 371,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 297-2000",
+        "WEBSITE": "http://www.baptisthealthsystem.com/baptist-locations/northeast-baptist-hospital",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4909839682355,
+          29.4418034310835
+        ]
+      },
+      "properties": {
+        "NAME": "METROPOLITAN METHODIST HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "METROPOLITAN METHODIST HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78212",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 354,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 757-2200",
+        "WEBSITE": "http://sahealth.com/locations/metropolitanmethodist/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.574910873438,
+          29.5125494047313
+        ]
+      },
+      "properties": {
+        "NAME": "ST LUKE'S BAPTIST HOSPITAL",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "ST LUKE'S BAPTIST HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 282,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 297-5000",
+        "WEBSITE": "http://www.baptisthealthsystem.com/baptist-locations/st-luke's-baptist-hospital",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4550885647854,
+          29.6808619503188
+        ]
+      },
+      "properties": {
+        "NAME": "BAPTIST EMERGENCY HOSPITAL - OVERLOOK",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "BAPTIST EMERGENCY HOSPITAL - OVERLOOK",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "72858",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "Y",
+        "BEDS": 8,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 572-2911",
+        "WEBSITE": "http://www.baptistemergencyhospital.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.64882102537,
+          29.5707837213917
+        ]
+      },
+      "properties": {
+        "NAME": "BAPTIST EMERGENCY HOSPITAL - HAUSMAN",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "BAPTIST EMERGENCY HOSPITAL - HAUSMAN",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78249",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 8,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 572-8885",
+        "WEBSITE": "http://www.baptistemergencyhospital.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5330211692915,
+          29.3518245543597
+        ]
+      },
+      "properties": {
+        "NAME": "BAPTIST EMERGENCY HOSPITAL - ZARZAMORA",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "BAPTIST EMERGENCY HOSPITAL - ZARZAMORA",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78224",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 8,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 572-2955",
+        "WEBSITE": "http://www.baptistemergencyhospital.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4567102996406,
+          29.3541045174096
+        ]
+      },
+      "properties": {
+        "NAME": "TEXAS CENTER FOR INFECTIOUS DISEASE",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "TEXAS CENTER FOR INFECTIOUS DISEASE",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78223",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 72,
+        "OWNER": "GOVERNMENT - STATE",
+        "TELEPHONE": "NOT AVAILABLE",
+        "WEBSITE": "http://www.dshs.state.tx.us/tcid/default.shtm",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5563788102339,
+          29.5224857918859
+        ]
+      },
+      "properties": {
+        "NAME": "KINDRED HOSPITAL - SAN ANTONIO",
+        "TYPE": "LONG TERM CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "KINDRED HOSPITAL - SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 59,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 616-0616",
+        "WEBSITE": "http://www.khsanantonio.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4922097441843,
+          29.43297807268
+        ]
+      },
+      "properties": {
+        "NAME": "KINDRED HOSPITAL - SAN ANTONIO CENTRAL",
+        "TYPE": "LONG TERM CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "KINDRED HOSPITAL - SAN ANTONIO CENTRAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78205",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 44,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 297-7195",
+        "WEBSITE": "http://www.kindredsanantoniocentral.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.493059670967,
+          29.4376361480898
+        ]
+      },
+      "properties": {
+        "NAME": "ACUITY HOSPITAL OF SOUTH TEXAS",
+        "TYPE": "LONG TERM CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "ACUITY HOSPITAL OF SOUTH TEXAS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78212",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 30,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 572-4600",
+        "WEBSITE": "http://www.acuityhealthcare.net",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4734592653328,
+          29.58772294226
+        ]
+      },
+      "properties": {
+        "NAME": "BAPTIST EMERGENCY HOSPITAL - THOUSAND OAKS",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "BAPTIST EMERGENCY HOSPITAL - THOUSAND OAKS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78232",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 10,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 402-4092",
+        "WEBSITE": "http://www.baptistemergencyhospital.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6899138168691,
+          29.461718083223
+        ]
+      },
+      "properties": {
+        "NAME": "BAPTIST EMERGENCY HOSPITAL - WESTOVER HILLS",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "BAPTIST EMERGENCY HOSPITAL - WESTOVER HILLS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78232",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 8,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 572-0911",
+        "WEBSITE": "http://www.baptistemergencyhospital.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.498375808197,
+          29.4280373070761
+        ]
+      },
+      "properties": {
+        "NAME": "CHILDREN'S HOSPITAL OF SAN ANTONIO",
+        "TYPE": "CHILDREN",
+        "STATUS": "OPEN",
+        "ADDRESS": "CHILDREN'S HOSPITAL OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78207",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL III",
+        "HELIPAD": "Y",
+        "BEDS": 652,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 704-3907",
+        "WEBSITE": "http://www.chofsa.org/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5901372734164,
+          29.5128125679457
+        ]
+      },
+      "properties": {
+        "NAME": "CHRISTUS SANTA ROSA - MEDICAL CENTER",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "CHRISTUS SANTA ROSA - MEDICAL CENTER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "Y",
+        "BEDS": 172,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 705-6021",
+        "WEBSITE": "http://www.christussantarosa.org/medicalcenter",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4760476382879,
+          29.5058017734332
+        ]
+      },
+      "properties": {
+        "NAME": "CHRISTUS SANTA ROSA HOSPITAL - ALAMO HEIGHTS",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "CHRISTUS SANTA ROSA HOSPITAL - ALAMO HEIGHTS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78209",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 36,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 294-8000",
+        "WEBSITE": "http://www.christusalamoheights.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6959104549035,
+          29.4667339871838
+        ]
+      },
+      "properties": {
+        "NAME": "CHRISTUS SANTA ROSA HOSPITAL - WESTOVER HILLS",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "CHRISTUS SANTA ROSA HOSPITAL - WESTOVER HILLS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78251",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "Y",
+        "BEDS": 150,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 703-8000",
+        "WEBSITE": "http://www.christussantarosa.org/WestoverHills",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4926407829457,
+          29.4335889389784
+        ]
+      },
+      "properties": {
+        "NAME": "BAPTIST MEDICAL CENTER",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "BAPTIST MEDICAL CENTER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78205",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "Y",
+        "BEDS": 623,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 297-1020",
+        "WEBSITE": "http://www.baptisthealthsystem.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5896663011588,
+          29.52660023881
+        ]
+      },
+      "properties": {
+        "NAME": "LIFECARE HOSPITALS OF SAN ANTONIO",
+        "TYPE": "LONG TERM CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "LIFECARE HOSPITALS OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78240",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 62,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 690-7000",
+        "WEBSITE": "http://www.lifecare-hospitals.com/hospital/sanantonio",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4894160002482,
+          29.4256719857736
+        ]
+      },
+      "properties": {
+        "NAME": "NIX HEALTH CARE SYSTEM",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "NIX HEALTH CARE SYSTEM",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78205",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 208,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 271-1800",
+        "WEBSITE": "http://www.nixhealth.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.458150543213,
+          29.360138371189
+        ]
+      },
+      "properties": {
+        "NAME": "SAN ANTONIO STATE HOSPITAL",
+        "TYPE": "PSYCHIATRIC",
+        "STATUS": "OPEN",
+        "ADDRESS": "SAN ANTONIO STATE HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78223",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 302,
+        "OWNER": "GOVERNMENT - STATE",
+        "TELEPHONE": "NOT AVAILABLE",
+        "WEBSITE": "http://www.dshs.state.tx.us/mhhospitals/SanAntonioSH/default.shtm",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4378829818141,
+          29.6032306483758
+        ]
+      },
+      "properties": {
+        "NAME": "LAUREL RIDGE TREATMENT CENTER",
+        "TYPE": "PSYCHIATRIC",
+        "STATUS": "OPEN",
+        "ADDRESS": "LAUREL RIDGE TREATMENT CENTER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78259",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 208,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 491-9400",
+        "WEBSITE": "http://www.laurelridgetc.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5761995057026,
+          29.5201067469289
+        ]
+      },
+      "properties": {
+        "NAME": "CLARITY CHILD GUIDANCE CENTER",
+        "TYPE": "PSYCHIATRIC",
+        "STATUS": "OPEN",
+        "ADDRESS": "CLARITY CHILD GUIDANCE CENTER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 66,
+        "OWNER": "NON-PROFIT",
+        "TELEPHONE": "(210) 616-0300",
+        "WEBSITE": "http://www.claritycgc.org",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5767294851776,
+          29.4996498305753
+        ]
+      },
+      "properties": {
+        "NAME": "NIX BEHAVIORAL HEALTH CENTER",
+        "TYPE": "PSYCHIATRIC",
+        "STATUS": "OPEN",
+        "ADDRESS": "NIX BEHAVIORAL HEALTH CENTER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 73,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 271-2188",
+        "WEBSITE": "https://nixhealth.com/home/departments-and-services/dep-and-services-behavioral-health?headerbar=3",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6050012825831,
+          29.5162952744074
+        ]
+      },
+      "properties": {
+        "NAME": "SAN ANTONIO BEHAVIORAL HEALTHCARE HOSPITAL LLC",
+        "TYPE": "PSYCHIATRIC",
+        "STATUS": "OPEN",
+        "ADDRESS": "SAN ANTONIO BEHAVIORAL HEALTHCARE HOSPITAL LLC",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78222",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 108,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 541-5300",
+        "WEBSITE": "http://www.sanantoniobehavioral.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5841298642018,
+          29.5272691509506
+        ]
+      },
+      "properties": {
+        "NAME": "HEALTHSOUTH REHABILITATION INSTITUTE OF SAN ANTONIO",
+        "TYPE": "REHABILITATION",
+        "STATUS": "OPEN",
+        "ADDRESS": "HEALTHSOUTH REHABILITATION INSTITUTE OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78240",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 108,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 691-0737",
+        "WEBSITE": "http://www.hsriosa.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5869581519971,
+          29.5139089881094
+        ]
+      },
+      "properties": {
+        "NAME": "WARM SPRINGS REHABILITATION HOSPITAL OF SAN ANTONIO",
+        "TYPE": "REHABILITATION",
+        "STATUS": "OPEN",
+        "ADDRESS": "WARM SPRINGS REHABILITATION HOSPITAL OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "Y",
+        "BEDS": 65,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 616-0100",
+        "WEBSITE": "http://postacutemedical.com/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-hospital-san-antonio/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4923585001446,
+          29.62823131922
+        ]
+      },
+      "properties": {
+        "NAME": "SELECT REHABILITATION HOSPITAL OF SAN ANTONIO",
+        "TYPE": "REHABILITATION",
+        "STATUS": "OPEN",
+        "ADDRESS": "SELECT REHABILITATION HOSPITAL OF SAN ANTONIO",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78258",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 42,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 482-3400",
+        "WEBSITE": "http://www.sanantonio-rehab.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.44485483838,
+          29.5763655561256
+        ]
+      },
+      "properties": {
+        "NAME": "WARM SPRINGS REHABILITATION HOSPITAL OF THOUSAND OAKS",
+        "TYPE": "REHABILITATION",
+        "STATUS": "OPEN",
+        "ADDRESS": "WARM SPRINGS REHABILITATION HOSPITAL OF THOUSAND OAKS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78247",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 34,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 581-5300",
+        "WEBSITE": "http://postacutemedical.com/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-hospital-thousand-oaks/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6845763144453,
+          29.4519078493678
+        ]
+      },
+      "properties": {
+        "NAME": "WARM SPRINGS REHABILITATION HOSPITAL OF WESTOVER HILLS",
+        "TYPE": "REHABILITATION",
+        "STATUS": "OPEN",
+        "ADDRESS": "WARM SPRINGS REHABILITATION HOSPITAL OF WESTOVER HILLS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78251",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 40,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 422-8791",
+        "WEBSITE": "http://postacutemedical.com/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-hospital-westover-hills/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5949717706307,
+          29.5268803893186
+        ]
+      },
+      "properties": {
+        "NAME": "METHODIST AMBULATORY SURGERY HOSPITAL - NORTHWEST",
+        "TYPE": "SPECIAL",
+        "STATUS": "OPEN",
+        "ADDRESS": "METHODIST AMBULATORY SURGERY HOSPITAL - NORTHWEST",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78240",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 31,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 575-5080",
+        "WEBSITE": "http://sahealth.com/locations/methodistambulatory/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4773671469762,
+          29.6132534253054
+        ]
+      },
+      "properties": {
+        "NAME": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
+        "TYPE": "SPECIAL",
+        "STATUS": "OPEN",
+        "ADDRESS": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78258",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 30,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 507-4092",
+        "WEBSITE": "http://www.southtexassurgical.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5903568743702,
+          29.5907386739507
+        ]
+      },
+      "properties": {
+        "NAME": "CUMBERLAND SURGICAL HOSPITAL",
+        "TYPE": "SPECIAL",
+        "STATUS": "OPEN",
+        "ADDRESS": "CUMBERLAND SURGICAL HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78249",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 25,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 877-8000",
+        "WEBSITE": "http://cumberlandsh.com/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5755992406124,
+          29.5142240296153
+        ]
+      },
+      "properties": {
+        "NAME": "METHODIST SPECIALTY & TRANSPLANT HOSPITAL",
+        "TYPE": "SPECIAL",
+        "STATUS": "OPEN",
+        "ADDRESS": "METHODIST SPECIALTY & TRANSPLANT HOSPITAL",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "LEVEL IV",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 383,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 575-8168",
+        "WEBSITE": "http://sahealth.com/locations/methodist-specialty-hospital/",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5326960859556,
+          29.5151983731065
+        ]
+      },
+      "properties": {
+        "NAME": "NIX SPECIALTY HEALTH CENTER",
+        "TYPE": "GENERAL ACUTE CARE",
+        "STATUS": "OPEN",
+        "ADDRESS": "NIX SPECIALTY HEALTH CENTER",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78216",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "NOT AVAILABLE",
+        "BEDS": 94,
+        "OWNER": "PROPRIETARY",
+        "TELEPHONE": "(210) 341-2633",
+        "WEBSITE": "http://www.nixhealth.com",
+        "SOURCE": "http://www.dshs.texas.gov/facilities/find-a-licensee.aspx",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2017-12-18T00:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5798455776113,
+          29.5066647565733
+        ]
+      },
+      "properties": {
+        "NAME": "AUDIE L. MURPHY VA HOSPITAL STVHCS",
+        "TYPE": "MILITARY",
+        "STATUS": "OPEN",
+        "ADDRESS": "AUDIE L. MURPHY VA HOSPITAL STVHCS",
+        "CITY": "SAN ANTONIO",
+        "STATE": "TX",
+        "ZIP": "78229",
+        "COUNTY": "BEXAR",
+        "TRAUMA": "NOT AVAILABLE",
+        "HELIPAD": "N",
+        "BEDS": -999,
+        "OWNER": "GOVERNMENT - FEDERAL",
+        "TELEPHONE": "(210) 617-5300",
+        "WEBSITE": "http://www.southtexas.va.gov/",
+        "SOURCE": "https://www.va.gov/directory/guide/division.asp?dnum=1",
+        "SOURCEDATE": "2017-12-14T00:00:00.000Z",
+        "VAL_DATE": "2018-05-15T00:00:00.000Z"
+      }
+    }
+  ]
+}
