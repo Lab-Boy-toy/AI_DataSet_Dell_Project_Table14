@@ -1,0 +1,407 @@
+{
+  "0045878229": {
+    "name": "UNIVERSITY HOSPITAL",
+    "latitude": 29.5070095701356,
+    "longitude": -98.5783370422207,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "UNIVERSITY HOSPITAL",
+    "trauma": "LEVEL I"
+  },
+  "0046278229": {
+    "name": "METHODIST HOSPITAL",
+    "latitude": 29.5082133001038,
+    "longitude": -98.5724775885698,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "METHODIST HOSPITAL",
+    "trauma": "LEVEL III"
+  },
+  "0046478224": {
+    "name": "SOUTHWEST GENERAL HOSPITAL",
+    "latitude": 29.3535371450233,
+    "longitude": -98.5447077171874,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "SOUTHWEST GENERAL HOSPITAL",
+    "trauma": "LEVEL IV"
+  },
+  "0047578224": {
+    "name": "PAM SPECIALTY HOSPITAL OF SAN ANTONIO",
+    "latitude": 29.3533583544046,
+    "longitude": -98.5453919870506,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "PAM SPECIALTY HOSPITAL OF SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047678222": {
+    "name": "VICTORY MEDICAL CENTER SOUTHCROSS",
+    "latitude": 29.3753886841405,
+    "longitude": -98.4118396252985,
+    "type": "GENERAL ACUTE CARE",
+    "status": "CLOSED",
+    "address": "VICTORY MEDICAL CENTER SOUTHCROSS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047778240": {
+    "name": "FOUNDATION SURGICAL HOSPITAL OF SAN ANTONIO",
+    "latitude": 29.5302401053966,
+    "longitude": -98.5897513167698,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "FOUNDATION SURGICAL HOSPITAL OF SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047878258": {
+    "name": "METHODIST STONE OAK HOSPITAL",
+    "latitude": 29.6158622128709,
+    "longitude": -98.474434773446,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "METHODIST STONE OAK HOSPITAL",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047978201": {
+    "name": "METHODIST TEXSAN HOSPITAL",
+    "latitude": 29.4898639890319,
+    "longitude": -98.5475725822089,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "METHODIST TEXSAN HOSPITAL",
+    "trauma": "LEVEL IV"
+  },
+  "0000000043": {
+    "name": "MISSION TRAIL BAPTIST HOSPITAL-ER",
+    "latitude": 29.3447885086828,
+    "longitude": -98.4384867191867,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "MISSION TRAIL BAPTIST HOSPITAL-ER",
+    "trauma": "LEVEL IV"
+  },
+  "0000000045": {
+    "name": "NORTH CENTRAL BAPTIST HOSPITAL",
+    "latitude": 29.6203790947195,
+    "longitude": -98.4914282890842,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "NORTH CENTRAL BAPTIST HOSPITAL",
+    "trauma": "LEVEL III"
+  },
+  "0000000046": {
+    "name": "NORTHEAST BAPTIST HOSPITAL",
+    "latitude": 29.5195970021999,
+    "longitude": -98.4290579777435,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "NORTHEAST BAPTIST HOSPITAL",
+    "trauma": "LEVEL IV"
+  },
+  "0000000048": {
+    "name": "METROPOLITAN METHODIST HOSPITAL",
+    "latitude": 29.4418034310835,
+    "longitude": -98.4909839682355,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "METROPOLITAN METHODIST HOSPITAL",
+    "trauma": "LEVEL IV"
+  },
+  "0000000050": {
+    "name": "ST LUKE'S BAPTIST HOSPITAL",
+    "latitude": 29.5125494047313,
+    "longitude": -98.574910873438,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "ST LUKE'S BAPTIST HOSPITAL",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0071472858": {
+    "name": "BAPTIST EMERGENCY HOSPITAL - OVERLOOK",
+    "latitude": 29.6808619503188,
+    "longitude": -98.4550885647854,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "BAPTIST EMERGENCY HOSPITAL - OVERLOOK",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0071578249": {
+    "name": "BAPTIST EMERGENCY HOSPITAL - HAUSMAN",
+    "latitude": 29.5707837213917,
+    "longitude": -98.64882102537,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "BAPTIST EMERGENCY HOSPITAL - HAUSMAN",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0071678224": {
+    "name": "BAPTIST EMERGENCY HOSPITAL - ZARZAMORA",
+    "latitude": 29.3518245543597,
+    "longitude": -98.5330211692915,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "BAPTIST EMERGENCY HOSPITAL - ZARZAMORA",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0046378223": {
+    "name": "TEXAS CENTER FOR INFECTIOUS DISEASE",
+    "latitude": 29.3541045174096,
+    "longitude": -98.4567102996406,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "TEXAS CENTER FOR INFECTIOUS DISEASE",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0046878229": {
+    "name": "KINDRED HOSPITAL - SAN ANTONIO",
+    "latitude": 29.5224857918859,
+    "longitude": -98.5563788102339,
+    "type": "LONG TERM CARE",
+    "status": "OPEN",
+    "address": "KINDRED HOSPITAL - SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047378205": {
+    "name": "KINDRED HOSPITAL - SAN ANTONIO CENTRAL",
+    "latitude": 29.43297807268,
+    "longitude": -98.4922097441843,
+    "type": "LONG TERM CARE",
+    "status": "OPEN",
+    "address": "KINDRED HOSPITAL - SAN ANTONIO CENTRAL",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047178212": {
+    "name": "ACUITY HOSPITAL OF SOUTH TEXAS",
+    "latitude": 29.4376361480898,
+    "longitude": -98.493059670967,
+    "type": "LONG TERM CARE",
+    "status": "OPEN",
+    "address": "ACUITY HOSPITAL OF SOUTH TEXAS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0134178232": {
+    "name": "BAPTIST EMERGENCY HOSPITAL - THOUSAND OAKS",
+    "latitude": 29.58772294226,
+    "longitude": -98.4734592653328,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "BAPTIST EMERGENCY HOSPITAL - THOUSAND OAKS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0071378232": {
+    "name": "BAPTIST EMERGENCY HOSPITAL - WESTOVER HILLS",
+    "latitude": 29.461718083223,
+    "longitude": -98.6899138168691,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "BAPTIST EMERGENCY HOSPITAL - WESTOVER HILLS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0134878207": {
+    "name": "CHILDREN'S HOSPITAL OF SAN ANTONIO",
+    "latitude": 29.4280373070761,
+    "longitude": -98.498375808197,
+    "type": "CHILDREN",
+    "status": "OPEN",
+    "address": "CHILDREN'S HOSPITAL OF SAN ANTONIO",
+    "trauma": "LEVEL III"
+  },
+  "0134978229": {
+    "name": "CHRISTUS SANTA ROSA - MEDICAL CENTER",
+    "latitude": 29.5128125679457,
+    "longitude": -98.5901372734164,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "CHRISTUS SANTA ROSA - MEDICAL CENTER",
+    "trauma": "LEVEL IV"
+  },
+  "0071778209": {
+    "name": "CHRISTUS SANTA ROSA HOSPITAL - ALAMO HEIGHTS",
+    "latitude": 29.5058017734332,
+    "longitude": -98.4760476382879,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "CHRISTUS SANTA ROSA HOSPITAL - ALAMO HEIGHTS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0000000047": {
+    "name": "CHRISTUS SANTA ROSA HOSPITAL - WESTOVER HILLS",
+    "latitude": 29.4667339871838,
+    "longitude": -98.6959104549035,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "CHRISTUS SANTA ROSA HOSPITAL - WESTOVER HILLS",
+    "trauma": "LEVEL IV"
+  },
+  "0045778205": {
+    "name": "BAPTIST MEDICAL CENTER",
+    "latitude": 29.4335889389784,
+    "longitude": -98.4926407829457,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "BAPTIST MEDICAL CENTER",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047278240": {
+    "name": "LIFECARE HOSPITALS OF SAN ANTONIO",
+    "latitude": 29.52660023881,
+    "longitude": -98.5896663011588,
+    "type": "LONG TERM CARE",
+    "status": "OPEN",
+    "address": "LIFECARE HOSPITALS OF SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0045978205": {
+    "name": "NIX HEALTH CARE SYSTEM",
+    "latitude": 29.4256719857736,
+    "longitude": -98.4894160002482,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "NIX HEALTH CARE SYSTEM",
+    "trauma": "LEVEL IV"
+  },
+  "0046078223": {
+    "name": "SAN ANTONIO STATE HOSPITAL",
+    "latitude": 29.360138371189,
+    "longitude": -98.458150543213,
+    "type": "PSYCHIATRIC",
+    "status": "OPEN",
+    "address": "SAN ANTONIO STATE HOSPITAL",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0046578259": {
+    "name": "LAUREL RIDGE TREATMENT CENTER",
+    "latitude": 29.6032306483758,
+    "longitude": -98.4378829818141,
+    "type": "PSYCHIATRIC",
+    "status": "OPEN",
+    "address": "LAUREL RIDGE TREATMENT CENTER",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0046778229": {
+    "name": "CLARITY CHILD GUIDANCE CENTER",
+    "latitude": 29.5201067469289,
+    "longitude": -98.5761995057026,
+    "type": "PSYCHIATRIC",
+    "status": "OPEN",
+    "address": "CLARITY CHILD GUIDANCE CENTER",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0071878229": {
+    "name": "NIX BEHAVIORAL HEALTH CENTER",
+    "latitude": 29.4996498305753,
+    "longitude": -98.5767294851776,
+    "type": "PSYCHIATRIC",
+    "status": "OPEN",
+    "address": "NIX BEHAVIORAL HEALTH CENTER",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0072078222": {
+    "name": "SAN ANTONIO BEHAVIORAL HEALTHCARE HOSPITAL LLC",
+    "latitude": 29.5162952744074,
+    "longitude": -98.6050012825831,
+    "type": "PSYCHIATRIC",
+    "status": "OPEN",
+    "address": "SAN ANTONIO BEHAVIORAL HEALTHCARE HOSPITAL LLC",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0046678240": {
+    "name": "HEALTHSOUTH REHABILITATION INSTITUTE OF SAN ANTONIO",
+    "latitude": 29.5272691509506,
+    "longitude": -98.5841298642018,
+    "type": "REHABILITATION",
+    "status": "OPEN",
+    "address": "HEALTHSOUTH REHABILITATION INSTITUTE OF SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0046978229": {
+    "name": "WARM SPRINGS REHABILITATION HOSPITAL OF SAN ANTONIO",
+    "latitude": 29.5139089881094,
+    "longitude": -98.5869581519971,
+    "type": "REHABILITATION",
+    "status": "OPEN",
+    "address": "WARM SPRINGS REHABILITATION HOSPITAL OF SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0048078258": {
+    "name": "SELECT REHABILITATION HOSPITAL OF SAN ANTONIO",
+    "latitude": 29.62823131922,
+    "longitude": -98.4923585001446,
+    "type": "REHABILITATION",
+    "status": "OPEN",
+    "address": "SELECT REHABILITATION HOSPITAL OF SAN ANTONIO",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0072178247": {
+    "name": "WARM SPRINGS REHABILITATION HOSPITAL OF THOUSAND OAKS",
+    "latitude": 29.5763655561256,
+    "longitude": -98.44485483838,
+    "type": "REHABILITATION",
+    "status": "OPEN",
+    "address": "WARM SPRINGS REHABILITATION HOSPITAL OF THOUSAND OAKS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0072278251": {
+    "name": "WARM SPRINGS REHABILITATION HOSPITAL OF WESTOVER HILLS",
+    "latitude": 29.4519078493678,
+    "longitude": -98.6845763144453,
+    "type": "REHABILITATION",
+    "status": "OPEN",
+    "address": "WARM SPRINGS REHABILITATION HOSPITAL OF WESTOVER HILLS",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047078240": {
+    "name": "METHODIST AMBULATORY SURGERY HOSPITAL - NORTHWEST",
+    "latitude": 29.5268803893186,
+    "longitude": -98.5949717706307,
+    "type": "SPECIAL",
+    "status": "OPEN",
+    "address": "METHODIST AMBULATORY SURGERY HOSPITAL - NORTHWEST",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0047478258": {
+    "name": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
+    "latitude": 29.6132534253054,
+    "longitude": -98.4773671469762,
+    "type": "SPECIAL",
+    "status": "OPEN",
+    "address": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0143178249": {
+    "name": "CUMBERLAND SURGICAL HOSPITAL",
+    "latitude": 29.5907386739507,
+    "longitude": -98.5903568743702,
+    "type": "SPECIAL",
+    "status": "OPEN",
+    "address": "CUMBERLAND SURGICAL HOSPITAL",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0000000049": {
+    "name": "METHODIST SPECIALTY & TRANSPLANT HOSPITAL",
+    "latitude": 29.5142240296153,
+    "longitude": -98.5755992406124,
+    "type": "SPECIAL",
+    "status": "OPEN",
+    "address": "METHODIST SPECIALTY & TRANSPLANT HOSPITAL",
+    "trauma": "LEVEL IV"
+  },
+  "0071978216": {
+    "name": "NIX SPECIALTY HEALTH CENTER",
+    "latitude": 29.5151983731065,
+    "longitude": -98.5326960859556,
+    "type": "GENERAL ACUTE CARE",
+    "status": "OPEN",
+    "address": "NIX SPECIALTY HEALTH CENTER",
+    "trauma": "NOT AVAILABLE"
+  },
+  "0015078229": {
+    "name": "AUDIE L. MURPHY VA HOSPITAL STVHCS",
+    "latitude": 29.5066647565733,
+    "longitude": -98.5798455776113,
+    "type": "MILITARY",
+    "status": "OPEN",
+    "address": "AUDIE L. MURPHY VA HOSPITAL STVHCS",
+    "trauma": "NOT AVAILABLE"
+  }
+}

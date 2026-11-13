@@ -1,0 +1,938 @@
+{
+  "LWC_7070122": {
+    "name": "Elm Creek at Jones Maltsberger",
+    "latitude": 29.59546832,
+    "longitude": -98.4346405,
+    "object_id": 1
+  },
+  "LWC_7070275": {
+    "name": "Cougar Way Fort Sam Houston",
+    "latitude": 29.47968377,
+    "longitude": -98.41728661,
+    "object_id": 2
+  },
+  "LWC_7070194": {
+    "name": "Pinn Rd 1320 ft S of West Commerce",
+    "latitude": 29.43280521,
+    "longitude": -98.6236935,
+    "object_id": 3
+  },
+  "LWC_7070146": {
+    "name": "Dreamland at RR Crossing",
+    "latitude": 29.53692965,
+    "longitude": -98.53995008,
+    "object_id": 4
+  },
+  "LWC_7070105": {
+    "name": "Hausman Rd 4200 ft W of IH-10",
+    "latitude": 29.57243109,
+    "longitude": -98.60746225,
+    "object_id": 5
+  },
+  "LWC_7070274": {
+    "name": "Pfeil Rd at Bluebell Ridge",
+    "latitude": 29.47645937,
+    "longitude": -98.25427483,
+    "object_id": 6
+  },
+  "LWC_7070231": {
+    "name": "New Sulphur Springs E of Beck",
+    "latitude": 29.35385597,
+    "longitude": -98.31950234,
+    "object_id": 7
+  },
+  "LWC_7070238": {
+    "name": "Leslie Rd 3200 ft SW of Braun Rd",
+    "latitude": 29.52881617,
+    "longitude": -98.68832122,
+    "object_id": 8
+  },
+  "LWC_7070142": {
+    "name": "Sleepy Hollow at Sunburst",
+    "latitude": 29.5535531,
+    "longitude": -98.56462892,
+    "object_id": 9
+  },
+  "LWC_7070132": {
+    "name": "Judson Rd 100 ft SE of Lookout Rd",
+    "latitude": 29.567093,
+    "longitude": -98.36520094,
+    "object_id": 10
+  },
+  "LWC_7070208": {
+    "name": "Covel and Medio Creek",
+    "latitude": 29.35040994,
+    "longitude": -98.64637957,
+    "object_id": 11
+  },
+  "LWC_7070240": {
+    "name": "S Hausman Rd 4300 ft N of Prue Rd",
+    "latitude": 29.55600398,
+    "longitude": -98.65575338,
+    "object_id": 12
+  },
+  "LWC_7070129": {
+    "name": "Jung at Salado Mud Creek Tributary A",
+    "latitude": 29.58015146,
+    "longitude": -98.41287639,
+    "object_id": 13
+  },
+  "LWC_7070126": {
+    "name": "Stahl Rd S of Jung",
+    "latitude": 29.57309056,
+    "longitude": -98.40656676,
+    "object_id": 14
+  },
+  "LWC_7070246": {
+    "name": "N Verde Rd at French Creek",
+    "latitude": 29.54109229,
+    "longitude": -98.64699125,
+    "object_id": 15
+  },
+  "LWC_7070248": {
+    "name": "New Sulphur Springs at Rosillo Creek",
+    "latitude": 29.37171412,
+    "longitude": -98.39229868,
+    "object_id": 16
+  },
+  "LWC_7070175": {
+    "name": "Cheever",
+    "latitude": 29.51767222,
+    "longitude": -98.45605815,
+    "object_id": 17
+  },
+  "LWC_7070177": {
+    "name": "Nacogdoches Rd 750 ft S of Old Perrin Beitel",
+    "latitude": 29.54672726,
+    "longitude": -98.41361799,
+    "object_id": 18
+  },
+  "LWC_7070133": {
+    "name": "Lookout Rd 200 ft SW of Topperwein",
+    "latitude": 29.56976687,
+    "longitude": -98.35721809,
+    "object_id": 19
+  },
+  "LWC_7070223": {
+    "name": "S New Braunfels at Koehler Ct",
+    "latitude": 29.36569703,
+    "longitude": -98.45961668,
+    "object_id": 20
+  },
+  "LWC_7070171": {
+    "name": "Bitters Rd 2600 ft W of NE Entrance",
+    "latitude": 29.54388744,
+    "longitude": -98.46350171,
+    "object_id": 21
+  },
+  "LWC_7070243": {
+    "name": "Prue Rd 1500 ft N of Bandera Rd",
+    "latitude": 29.54371987,
+    "longitude": -98.65184779,
+    "object_id": 22
+  },
+  "LWC_7070104": {
+    "name": "Old Camp Bullis Road at Leon Creek",
+    "latitude": 29.62184464,
+    "longitude": -98.59892355,
+    "object_id": 23
+  },
+  "LWC_7070255": {
+    "name": "Oak Knoll 500 ft E of E Horseshoe Bend",
+    "latitude": 29.47311078,
+    "longitude": -98.59205289,
+    "object_id": 24
+  },
+  "LWC_7070136": {
+    "name": "HollyHock 600 W of Babcock",
+    "latitude": 29.53279825,
+    "longitude": -98.60812616,
+    "object_id": 25
+  },
+  "LWC_7070107": {
+    "name": "Hausman Rd 1000 ft W of Babcock",
+    "latitude": 29.57191671,
+    "longitude": -98.63531111,
+    "object_id": 26
+  },
+  "LWC_7070195": {
+    "name": "2100 Blk of Pinn Rd",
+    "latitude": 29.41058378,
+    "longitude": -98.62402067,
+    "object_id": 27
+  },
+  "LWC_7070134": {
+    "name": "Lockhill 250 ft E of White Bonnet",
+    "latitude": 29.54171564,
+    "longitude": -98.60493324,
+    "object_id": 28
+  },
+  "LWC_7070184": {
+    "name": "Vandiver and Irvington",
+    "latitude": 29.49399116,
+    "longitude": -98.4421163,
+    "object_id": 29
+  },
+  "LWC_7070147": {
+    "name": "Algerita Dr 1000 ft NW of Vance Jackson",
+    "latitude": 29.53031078,
+    "longitude": -98.53772884,
+    "object_id": 30
+  },
+  "LWC_7070269": {
+    "name": "Woodlawn at Martinez Creek",
+    "latitude": 29.45328867,
+    "longitude": -98.51859118,
+    "object_id": 31
+  },
+  "LWC_7070144": {
+    "name": "Vance Jackson at Orsinger Rd",
+    "latitude": 29.54905951,
+    "longitude": -98.56713959,
+    "object_id": 32
+  },
+  "LWC_7070180": {
+    "name": "Weidner S of Leonhardt",
+    "latitude": 29.54793402,
+    "longitude": -98.38228772,
+    "object_id": 33
+  },
+  "LWC_7070214": {
+    "name": "Petaluma 2900 ft W of Bascum",
+    "latitude": 29.33912069,
+    "longitude": -98.50154682,
+    "object_id": 34
+  },
+  "LWC_7070118": {
+    "name": "Copperhill",
+    "latitude": 29.59568649,
+    "longitude": -98.46108775,
+    "object_id": 35
+  },
+  "LWC_7070189": {
+    "name": "Gibbs Sprawl 800 ft NE of Castle Cross",
+    "latitude": 29.48410512,
+    "longitude": -98.36905509,
+    "object_id": 36
+  },
+  "LWC_7070116": {
+    "name": "West Ave S of Interpark",
+    "latitude": 29.56102603,
+    "longitude": -98.4940848,
+    "object_id": 37
+  },
+  "LWC_7070265": {
+    "name": "Comanche Crossing Between Mission Canyon and Compari",
+    "latitude": 29.31388874,
+    "longitude": -98.55723921,
+    "object_id": 38
+  },
+  "LWC_7070179": {
+    "name": "Leonhardt 500 ft S of Encante",
+    "latitude": 29.54798641,
+    "longitude": -98.39159688,
+    "object_id": 39
+  },
+  "LWC_7070235": {
+    "name": "Southton Rd 2000 ft W of IH-37",
+    "latitude": 29.28427499,
+    "longitude": -98.40101868,
+    "object_id": 40
+  },
+  "LWC_7070277": {
+    "name": "W Ansley Blvd and Rockwell Blvd",
+    "latitude": 29.33556792,
+    "longitude": -98.52554591,
+    "object_id": 41
+  },
+  "LWC_7070124": {
+    "name": "Jung Rd at Mud Creek Tributary A",
+    "latitude": 29.57853045,
+    "longitude": -98.41939882,
+    "object_id": 42
+  },
+  "LWC_7070239": {
+    "name": "Horal Dr at Revlon",
+    "latitude": 29.40342838,
+    "longitude": -98.6567078,
+    "object_id": 43
+  },
+  "LWC_7070227": {
+    "name": "WW White at Rosillo Creek",
+    "latitude": 29.34760122,
+    "longitude": -98.39549407,
+    "object_id": 44
+  },
+  "LWC_7070245": {
+    "name": "S Verde Rd at French Creek",
+    "latitude": 29.53912873,
+    "longitude": -98.64677606,
+    "object_id": 45
+  },
+  "LWC_7070161": {
+    "name": "Danville and Overbrook",
+    "latitude": 29.48044432,
+    "longitude": -98.5515505,
+    "object_id": 46
+  },
+  "LWC_7070163": {
+    "name": "Spencer Ln E of Balcones",
+    "latitude": 29.4842902,
+    "longitude": -98.54050532,
+    "object_id": 47
+  },
+  "LWC_7070113": {
+    "name": "Paso Del Norte 700 ft W of San Pedro",
+    "latitude": 29.58385071,
+    "longitude": -98.47371317,
+    "object_id": 48
+  },
+  "LWC_7070143": {
+    "name": "Orsinger 250 W of Sleepy Hollow",
+    "latitude": 29.55253137,
+    "longitude": -98.56378642,
+    "object_id": 49
+  },
+  "LWC_7070242": {
+    "name": "S Hausman Rd 4700 ft N of Prue Rd",
+    "latitude": 29.55726241,
+    "longitude": -98.65575405,
+    "object_id": 50
+  },
+  "LWC_7070257": {
+    "name": "E Horseshoe Bend and Oakwood",
+    "latitude": 29.47234481,
+    "longitude": -98.592986,
+    "object_id": 51
+  },
+  "LWC_7070260": {
+    "name": "East of Padre Dr. at E. Pyron Street Bridge",
+    "latitude": 29.3585638,
+    "longitude": -98.47210273,
+    "object_id": 52
+  },
+  "LWC_7070137": {
+    "name": "Southwell 200 ft S of Verbena",
+    "latitude": 29.53648326,
+    "longitude": -98.58986899,
+    "object_id": 53
+  },
+  "LWC_7070218": {
+    "name": "Quinta at Vista",
+    "latitude": 29.39619639,
+    "longitude": -98.43422141,
+    "object_id": 54
+  },
+  "LWC_7070197": {
+    "name": "Rodriguez and Leon Creek",
+    "latitude": 29.41165206,
+    "longitude": -98.61441697,
+    "object_id": 55
+  },
+  "LWC_7070182": {
+    "name": "Cave Ln",
+    "latitude": 29.50871634,
+    "longitude": -98.44870243,
+    "object_id": 56
+  },
+  "LWC_7070254": {
+    "name": "SilverCrest 100 ft NW of Majestic",
+    "latitude": 29.47347585,
+    "longitude": -98.59620872,
+    "object_id": 57
+  },
+  "LWC_7070106": {
+    "name": "Danvers",
+    "latitude": 29.57005028,
+    "longitude": -98.63342068,
+    "object_id": 58
+  },
+  "LWC_7070204": {
+    "name": "Biscayne",
+    "latitude": 29.40551671,
+    "longitude": -98.62658147,
+    "object_id": 59
+  },
+  "LWC_7070114": {
+    "name": "Encino Grande S of Paso Del Norte",
+    "latitude": 29.58315203,
+    "longitude": -98.47194602,
+    "object_id": 60
+  },
+  "LWC_7070135": {
+    "name": "White Bonnet S of Lockhill",
+    "latitude": 29.54106558,
+    "longitude": -98.6056396,
+    "object_id": 61
+  },
+  "LWC_7070165": {
+    "name": "E Mulberry at San Antonio River",
+    "latitude": 29.45620147,
+    "longitude": -98.47592475,
+    "object_id": 62
+  },
+  "LWC_7070172": {
+    "name": "NE Entrance Rd 1000 ft S of Starcrest",
+    "latitude": 29.54402699,
+    "longitude": -98.4522482,
+    "object_id": 63
+  },
+  "LWC_7070276": {
+    "name": "Holbrook North of Petroleum Dr",
+    "latitude": 29.4696327,
+    "longitude": -98.41419563,
+    "object_id": 64
+  },
+  "LWC_7070128": {
+    "name": "Classen Rd 800 feet NW of Stahl Rd",
+    "latitude": 29.58013575,
+    "longitude": -98.40276279,
+    "object_id": 65
+  },
+  "LWC_7070237": {
+    "name": "Leslie Rd 1850 ft SW of Braun Rd",
+    "latitude": 29.53237984,
+    "longitude": -98.68651894,
+    "object_id": 66
+  },
+  "LWC_7070199": {
+    "name": "Harness Lane 480 ft N of Marbach Rd",
+    "latitude": 29.41915967,
+    "longitude": -98.64704739,
+    "object_id": 67
+  },
+  "LWC_7070130": {
+    "name": "Briarmall at Briarcrest Dr",
+    "latitude": 29.58030723,
+    "longitude": -98.40382051,
+    "object_id": 68
+  },
+  "LWC_7070192": {
+    "name": "Creekview W of Currency",
+    "latitude": 29.44234846,
+    "longitude": -98.41786883,
+    "object_id": 69
+  },
+  "LWC_7070173": {
+    "name": "Bitters Rd 175 ft W of NE Entrance Rd",
+    "latitude": 29.53961832,
+    "longitude": -98.45770923,
+    "object_id": 70
+  },
+  "LWC_7070178": {
+    "name": "Old OConnor N of Lookout Rd",
+    "latitude": 29.55442314,
+    "longitude": -98.37904926,
+    "object_id": 71
+  },
+  "LWC_7070160": {
+    "name": "Darwin between Kepler & Kettering",
+    "latitude": 29.46281229,
+    "longitude": -98.59913423,
+    "object_id": 72
+  },
+  "LWC_7070196": {
+    "name": "Arvil",
+    "latitude": 29.4116125,
+    "longitude": -98.61494619,
+    "object_id": 73
+  },
+  "LWC_7070249": {
+    "name": "Rice Rd at Salado Creek",
+    "latitude": 29.40886934,
+    "longitude": -98.41828786,
+    "object_id": 74
+  },
+  "LWC_7070272": {
+    "name": "Mickey Rd Between S Blue Wing Rd and Bald Eagle Hts",
+    "latitude": 29.29862562,
+    "longitude": -98.41327628,
+    "object_id": 75
+  },
+  "LWC_7070228": {
+    "name": "New Sulphur Springs N of Lodi",
+    "latitude": 29.36417169,
+    "longitude": -98.36411715,
+    "object_id": 76
+  },
+  "LWC_7070270": {
+    "name": "Thousand Oaks south of Wetmore",
+    "latitude": 29.55957731,
+    "longitude": -98.4193562,
+    "object_id": 77
+  },
+  "LWC_7070155": {
+    "name": "Contour Drive 500 ft E of McCullough",
+    "latitude": 29.48425662,
+    "longitude": -98.49003376,
+    "object_id": 78
+  },
+  "LWC_7070109": {
+    "name": "Old Babcock Rd 2300 ft S of Nickle",
+    "latitude": 29.56316542,
+    "longitude": -98.62766711,
+    "object_id": 79
+  },
+  "LWC_7070125": {
+    "name": "Stahl Rd N of Bell",
+    "latitude": 29.57069909,
+    "longitude": -98.40980456,
+    "object_id": 80
+  },
+  "LWC_7070203": {
+    "name": "Westfield",
+    "latitude": 29.40636512,
+    "longitude": -98.62657385,
+    "object_id": 81
+  },
+  "LWC_7070193": {
+    "name": "W Commerce between Pinn Rd and Military",
+    "latitude": 29.4362576,
+    "longitude": -98.62901312,
+    "object_id": 82
+  },
+  "LWC_7070183": {
+    "name": "Oak Glen at Haskin",
+    "latitude": 29.51081177,
+    "longitude": -98.44455505,
+    "object_id": 83
+  },
+  "LWC_7070139": {
+    "name": "Encino Park 2000 ft SW of Southwell",
+    "latitude": 29.53239934,
+    "longitude": -98.59480924,
+    "object_id": 84
+  },
+  "LWC_7070268": {
+    "name": "Pleasanton Rd Between Trumbo Road and  Neal Road",
+    "latitude": 29.24301231,
+    "longitude": -98.49867532,
+    "object_id": 85
+  },
+  "LWC_7070200": {
+    "name": "Meadow Way 450 ft N of Marbach Rd",
+    "latitude": 29.41913551,
+    "longitude": -98.64505677,
+    "object_id": 86
+  },
+  "LWC_7070250": {
+    "name": "N Graytown Rd at Tributary C to Salitrillo Creek",
+    "latitude": 29.49085476,
+    "longitude": -98.2892573,
+    "object_id": 87
+  },
+  "LWC_7070236": {
+    "name": "Braun Rd 1300 ft NE of FM 1604",
+    "latitude": 29.53769437,
+    "longitude": -98.68584098,
+    "object_id": 88
+  },
+  "LWC_7070262": {
+    "name": "Cougar Way",
+    "latitude": 29.4817591,
+    "longitude": -98.41964714,
+    "object_id": 89
+  },
+  "LWC_7070213": {
+    "name": "Mission Parkway at San Antonio River",
+    "latitude": 29.35449562,
+    "longitude": -98.47360798,
+    "object_id": 90
+  },
+  "LWC_7070225": {
+    "name": "Mission Parkway",
+    "latitude": 29.34633478,
+    "longitude": -98.46370914,
+    "object_id": 91
+  },
+  "LWC_7070151": {
+    "name": "North Loop 150 ft SE of W North Loop Rd",
+    "latitude": 29.55400902,
+    "longitude": -98.4880709,
+    "object_id": 92
+  },
+  "LWC_7070156": {
+    "name": "Easterling S of Culebra",
+    "latitude": 29.48723066,
+    "longitude": -98.69148278,
+    "object_id": 93
+  },
+  "LWC_7070230": {
+    "name": "New Sulphur Springs",
+    "latitude": 29.35878066,
+    "longitude": -98.34312879,
+    "object_id": 94
+  },
+  "LWC_7070201": {
+    "name": "Martinique",
+    "latitude": 29.40804618,
+    "longitude": -98.62656913,
+    "object_id": 95
+  },
+  "LWC_7070108": {
+    "name": "Old Babcock Rd 500 ft S of Nickle",
+    "latitude": 29.56649889,
+    "longitude": -98.63089368,
+    "object_id": 96
+  },
+  "LWC_7070120": {
+    "name": "Springhill",
+    "latitude": 29.59263391,
+    "longitude": -98.46413205,
+    "object_id": 97
+  },
+  "LWC_7070141": {
+    "name": "Medical Dr 2000 ft W of Wurzbach",
+    "latitude": 29.51104192,
+    "longitude": -98.58605605,
+    "object_id": 98
+  },
+  "LWC_7070153": {
+    "name": "McCullough at Barbara",
+    "latitude": 29.50312629,
+    "longitude": -98.49173229,
+    "object_id": 99
+  },
+  "LWC_7070212": {
+    "name": "Mission Parkway S of Napier",
+    "latitude": 29.35361444,
+    "longitude": -98.47160703,
+    "object_id": 100
+  },
+  "LWC_7070127": {
+    "name": "Jung Rd N of Stahl Rd",
+    "latitude": 29.57480357,
+    "longitude": -98.40587003,
+    "object_id": 101
+  },
+  "LWC_7070164": {
+    "name": "Devine 400 ft N of Dick Friedrich",
+    "latitude": 29.4798609,
+    "longitude": -98.479125,
+    "object_id": 102
+  },
+  "LWC_7070111": {
+    "name": "George Rd W of NW Military Hwy",
+    "latitude": 29.56198253,
+    "longitude": -98.54058422,
+    "object_id": 103
+  },
+  "LWC_7070232": {
+    "name": "Nancy Carole Way 300 ft W of Southton",
+    "latitude": 29.32034107,
+    "longitude": -98.43391511,
+    "object_id": 104
+  },
+  "LWC_7070154": {
+    "name": "McCullough 500 ft S of Jackson Keller",
+    "latitude": 29.49100561,
+    "longitude": -98.49171618,
+    "object_id": 105
+  },
+  "LWC_7070185": {
+    "name": "Vicar 100 ft E of Perrin Beitel",
+    "latitude": 29.51185969,
+    "longitude": -98.40949934,
+    "object_id": 106
+  },
+  "LWC_7070150": {
+    "name": "W North Loop Rd 1300 ft E of West Ave",
+    "latitude": 29.55505464,
+    "longitude": -98.49532611,
+    "object_id": 107
+  },
+  "LWC_7070207": {
+    "name": "Ray Ellison at Hidden Valley",
+    "latitude": 29.36736593,
+    "longitude": -98.64340911,
+    "object_id": 108
+  },
+  "LWC_7070205": {
+    "name": "Ray Ellison at Old Valley Hi",
+    "latitude": 29.37592017,
+    "longitude": -98.64787702,
+    "object_id": 109
+  },
+  "LWC_7070138": {
+    "name": "Verbena 1000 ft W of Southwell",
+    "latitude": 29.53699429,
+    "longitude": -98.59317975,
+    "object_id": 110
+  },
+  "LWC_7070102": {
+    "name": "Hausman Rd at  Roadrunner",
+    "latitude": 29.57211872,
+    "longitude": -98.62846283,
+    "object_id": 111
+  },
+  "LWC_7070271": {
+    "name": "Dell and Freeman",
+    "latitude": 29.45957672,
+    "longitude": -98.56941261,
+    "object_id": 112
+  },
+  "LWC_7070256": {
+    "name": "Oak Knoll",
+    "latitude": 29.47143559,
+    "longitude": -98.59863669,
+    "object_id": 113
+  },
+  "LWC_7070247": {
+    "name": "Rittiman Rd at Salado Creek",
+    "latitude": 29.48486959,
+    "longitude": -98.41677416,
+    "object_id": 114
+  },
+  "LWC_7070188": {
+    "name": "Blakely 200 ft W of Vandiver",
+    "latitude": 29.48567126,
+    "longitude": -98.44284214,
+    "object_id": 115
+  },
+  "LWC_7070234": {
+    "name": "Southton Rd 4700 ft W of IH-37",
+    "latitude": 29.28913971,
+    "longitude": -98.40861679,
+    "object_id": 116
+  },
+  "LWC_7070148": {
+    "name": "West Ave N of W North Loop Rd",
+    "latitude": 29.55697491,
+    "longitude": -98.49811408,
+    "object_id": 117
+  },
+  "LWC_7070119": {
+    "name": "Ledgestone at Mount Joy",
+    "latitude": 29.59271654,
+    "longitude": -98.4628291,
+    "object_id": 118
+  },
+  "LWC_7070190": {
+    "name": "Gibbs Sprawl at Rosillo Creek",
+    "latitude": 29.47762607,
+    "longitude": -98.37784078,
+    "object_id": 119
+  },
+  "LWC_7070115": {
+    "name": "Rio Seco 680 N of Brook Hollow",
+    "latitude": 29.57813689,
+    "longitude": -98.46895079,
+    "object_id": 120
+  },
+  "LWC_7070267": {
+    "name": "OP Schnabel Park",
+    "latitude": 29.53281118,
+    "longitude": -98.64287064,
+    "object_id": 121
+  },
+  "LWC_7070101": {
+    "name": "Hausman Rd 200 ft E of Babcock",
+    "latitude": 29.5720739,
+    "longitude": -98.63073732,
+    "object_id": 122
+  },
+  "LWC_7070217": {
+    "name": "Kingkrest E of Longleaf",
+    "latitude": 29.4326893,
+    "longitude": -98.41361805,
+    "object_id": 123
+  },
+  "LWC_7070191": {
+    "name": "Old Seguin at Salado Creek",
+    "latitude": 29.45076847,
+    "longitude": -98.42364729,
+    "object_id": 124
+  },
+  "LWC_7070176": {
+    "name": "Nacogdoches Rd at Bulverde",
+    "latitude": 29.54359857,
+    "longitude": -98.41821932,
+    "object_id": 125
+  },
+  "LWC_7070174": {
+    "name": "NE Entrance Rd 215 ft N of Bitters",
+    "latitude": 29.53961533,
+    "longitude": -98.45668332,
+    "object_id": 126
+  },
+  "LWC_7070222": {
+    "name": "Nopal N of Fair Ave",
+    "latitude": 29.3851688,
+    "longitude": -98.45898819,
+    "object_id": 127
+  },
+  "LWC_7070198": {
+    "name": "Military and Westbriar",
+    "latitude": 29.40982845,
+    "longitude": -98.62917506,
+    "object_id": 128
+  },
+  "LWC_7070226": {
+    "name": "Old Corpus Christi S of Henderson Ct",
+    "latitude": 29.34195675,
+    "longitude": -98.45464873,
+    "object_id": 129
+  },
+  "LWC_7070266": {
+    "name": "Sidney Brooks Dr west of S New Braunfels",
+    "latitude": 29.34510151,
+    "longitude": -98.45009045,
+    "object_id": 130
+  },
+  "LWC_7070229": {
+    "name": "New Sulphur Springs E of Jasper",
+    "latitude": 29.36544863,
+    "longitude": -98.372181,
+    "object_id": 131
+  },
+  "LWC_7070145": {
+    "name": "Vance Jackson S of Treehill",
+    "latitude": 29.54389925,
+    "longitude": -98.55998452,
+    "object_id": 132
+  },
+  "LWC_7070202": {
+    "name": "Tallahasse",
+    "latitude": 29.40721576,
+    "longitude": -98.62657375,
+    "object_id": 133
+  },
+  "LWC_7070112": {
+    "name": "Old Blanco Rd N of Voelcker",
+    "latitude": 29.5638792,
+    "longitude": -98.52040548,
+    "object_id": 134
+  },
+  "LWC_7070110": {
+    "name": "Old Babcock Rd 3700 ft S of Nickle",
+    "latitude": 29.560642,
+    "longitude": -98.62607638,
+    "object_id": 135
+  },
+  "LWC_7070221": {
+    "name": "Hiawatha E of Nopal",
+    "latitude": 29.38651374,
+    "longitude": -98.45798765,
+    "object_id": 136
+  },
+  "LWC_7070241": {
+    "name": "S Hausman Rd 3300 ft N of Prue Rd",
+    "latitude": 29.55322917,
+    "longitude": -98.65575365,
+    "object_id": 137
+  },
+  "LWC_7070131": {
+    "name": "Judson Rd at Lookout Rd",
+    "latitude": 29.56758683,
+    "longitude": -98.36522464,
+    "object_id": 138
+  },
+  "LWC_7070152": {
+    "name": "Maltsberger Ln 925 ft E of San Pedro",
+    "latitude": 29.55652933,
+    "longitude": -98.48145666,
+    "object_id": 139
+  },
+  "LWC_7070273": {
+    "name": "Blue Wing Rd between IH 37 and Mickey Rd",
+    "latitude": 29.30688801,
+    "longitude": -98.40849202,
+    "object_id": 140
+  },
+  "LWC_7070168": {
+    "name": "Hildebrand at Kendall",
+    "latitude": 29.46649683,
+    "longitude": -98.48827743,
+    "object_id": 141
+  },
+  "LWC_7070233": {
+    "name": "Villamain and Shane Rd at Railroad",
+    "latitude": 29.31726375,
+    "longitude": -98.44324655,
+    "object_id": 142
+  },
+  "LWC_7070206": {
+    "name": "Ray Ellison 300' N of Medina Base",
+    "latitude": 29.37478751,
+    "longitude": -98.64726168,
+    "object_id": 143
+  },
+  "LWC_7070117": {
+    "name": "Sugar Crest",
+    "latitude": 29.59684639,
+    "longitude": -98.45967301,
+    "object_id": 144
+  },
+  "LWC_7070253": {
+    "name": "Parkway 500 ft E of Callaghan",
+    "latitude": 29.47675171,
+    "longitude": -98.59003217,
+    "object_id": 145
+  },
+  "LWC_7070159": {
+    "name": "W Quill Dr at Heather Hill",
+    "latitude": 29.4662982,
+    "longitude": -98.57367793,
+    "object_id": 146
+  },
+  "LWC_7070157": {
+    "name": "Old Grissom 500 ft E of Culebra",
+    "latitude": 29.47548527,
+    "longitude": -98.65320391,
+    "object_id": 147
+  },
+  "LWC_7070187": {
+    "name": "Ira Lee N of Austin Hwy",
+    "latitude": 29.50012975,
+    "longitude": -98.42169317,
+    "object_id": 148
+  },
+  "LWC_7070181": {
+    "name": "Weidner 500 ft N of Schertz",
+    "latitude": 29.54310932,
+    "longitude": -98.38231165,
+    "object_id": 149
+  },
+  "LWC_7070149": {
+    "name": "West Ave at W North Loop Rd",
+    "latitude": 29.55479979,
+    "longitude": -98.50020242,
+    "object_id": 150
+  },
+  "LWC_7070186": {
+    "name": "Austin Hwy E of Ira Lee",
+    "latitude": 29.50005375,
+    "longitude": -98.42124387,
+    "object_id": 151
+  },
+  "LWC_7070123": {
+    "name": "Bulverde Rd at Mud Creek Tributary A",
+    "latitude": 29.57846644,
+    "longitude": -98.41999371,
+    "object_id": 152
+  },
+  "LWC_7070103": {
+    "name": "Old Fredericksburg Rd North of 1604",
+    "latitude": 29.59314043,
+    "longitude": -98.60246308,
+    "object_id": 153
+  },
+  "LWC_7070216": {
+    "name": "Mauermann and Comanche Creek",
+    "latitude": 29.28386097,
+    "longitude": -98.52054297,
+    "object_id": 154
+  },
+  "LWC_7070158": {
+    "name": "Silvercrest between Woodside and Horseshoe",
+    "latitude": 29.47343603,
+    "longitude": -98.59859815,
+    "object_id": 155
+  },
+  "LWC_7070258": {
+    "name": "Majestic",
+    "latitude": 29.47079151,
+    "longitude": -98.59489597,
+    "object_id": 156
+  }
+}
